@@ -1,1 +1,1 @@
-[{"name":"Jenkins","type":"jenkins","url":"http://localhost:8081/","buildOrder":8,"buildName":"screenshot_Rev #8","buildUrl":"http://localhost:8081/job/screenshot_Rev/8/","reportName":"AllureReport","reportUrl":"http://localhost:8081/job/screenshot_Rev/8/allure"}]
+[{"name":"Jenkins","type":"jenkins","url":"http://localhost:8081/","buildOrder":14,"buildName":"screenshot_Rev #14","buildUrl":"http://localhost:8081/job/screenshot_Rev/14/","reportName":"AllureReport","reportUrl":"http://localhost:8081/job/screenshot_Rev/14/allure"}]
